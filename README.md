@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+No wonder I am in the 21st century 😁
 <!--
 **AkshatShah72/AkshatShah72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Here are the my profile trophies of github and my stats 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkshatShah72&theme=onedark&row=5&column=5)](https://github.com/AkshatShah72/github-profile-trophy)
+
+
+![AkshatShah72's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatShah72&show_icons=true&theme=tokyonight)
+
 
