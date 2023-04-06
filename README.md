@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Here are the my profile trophies of github and my stats 
+#### Here are my profile related stats: 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkshatShah72&theme=onedark&row=5&column=5)](https://github.com/AkshatShah72/github-profile-trophy)
 
 
